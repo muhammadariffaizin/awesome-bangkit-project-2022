@@ -29,6 +29,7 @@ There are also several themes for the project:
 ### Character-Building & Community Empowerment
 ### Tourism, Creative, and Digital Economy
 ### Healthcare
+* [Lukaku](https://github.com/LukaKu-Bangkit2022) - a service that is engaged in the health sector that involves artificial intelligence technology to detect wounds and provide advice on actions in the form of first aids methods and drug recommendations.
 ### Mobility & Smart City
 ### Women Empowerment and Child Protection
 ### Education, Training, Upskilling & Research (including Competitive Human Resources)
