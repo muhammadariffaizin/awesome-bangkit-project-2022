@@ -37,7 +37,7 @@ There are also several themes for the project:
 - - -
 
 ## Contributing
-Your contributions are always welcome! Please take a look at the [Contribution Guidelines](https://github.com/muhammadariffaizin/awesome-bangkit-project-2022/blob/master/CONTRIBUTING.md) first.
+Your contributions are always welcome! Please take a look at the [Contribution Guidelines](https://github.com/muhammadariffaizin/awesome-bangkit-project-2022/blob/main/CONTRIBUTING.md) first.
 
 I can be sure to accept your contribution by opening a pull request as long as following the provided format and contribution guidelines.
 
